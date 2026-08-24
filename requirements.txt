@@ -1,0 +1,5 @@
+# No third-party Python packages are required for the basic sequence analysis.
+# Optional packages for future extensions:
+# biopython
+# pandas
+# matplotlib

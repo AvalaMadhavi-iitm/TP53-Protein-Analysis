@@ -1,0 +1,31 @@
+TP53 sequence analysis
+======================
+
+Protein: Cellular tumor antigen p53
+Gene: TP53
+Organism: Homo sapiens
+UniProt accession: P04637
+Sequence length: 393 amino acids
+Approximate molecular mass: 43.65 kDa
+
+Amino-acid counts:
+A: 24
+C: 10
+D: 20
+E: 30
+F: 11
+G: 23
+H: 12
+I: 8
+K: 20
+L: 32
+M: 12
+N: 14
+P: 45
+Q: 15
+R: 26
+S: 38
+T: 22
+V: 18
+W: 4
+Y: 9

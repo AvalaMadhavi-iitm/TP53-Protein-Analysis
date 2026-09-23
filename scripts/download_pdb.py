@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# Download the selected experimental TP53 structure used by this project.
-# Requires internet access.
-#
 # PDB ID: 2XWR
 # RCSB page: https://www.rcsb.org/structure/2XWR
 

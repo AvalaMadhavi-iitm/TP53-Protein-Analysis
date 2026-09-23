@@ -1,0 +1,6 @@
+Mutation,Position,Original,Mutant,Nucleotide_Change,Protein_Change,ClinVar_Variation_ID,ClinVar_Accession,Germline_Classification
+R175H,175,R,H,c.524G>A,p.Arg175His,12374,VCV000012374.86,Pathogenic
+G245S,245,G,S,c.733G>A,p.Gly245Ser,12365,VCV000012365.71,Pathogenic
+R248Q,248,R,Q,c.743G>A,p.Arg248Gln,12356,VCV000012356.111,Pathogenic
+R273H,273,R,H,c.818G>A,p.Arg273His,12366,VCV000012366.82,Pathogenic
+R282W,282,R,W,c.844C>T,p.Arg282Trp,12364,VCV000012364.84,Pathogenic/Likely pathogenic

@@ -4,9 +4,10 @@
 from pathlib import Path
 from urllib.request import urlretrieve
 
-out = Path(__file__).resolve().parents[1] / "data" / "2XWR.pdb"
+out = Path("data") / "2XWR.pdb"
 url = "https://files.rcsb.org/download/2XWR.pdb"
 
-print("Downloading:", url)
+out.parent.mkdir(parents=True, exist_ok=True)
 urlretrieve(url, out)
-print("Saved to:", out)
+
+print(f"Downloaded to: {out}")
